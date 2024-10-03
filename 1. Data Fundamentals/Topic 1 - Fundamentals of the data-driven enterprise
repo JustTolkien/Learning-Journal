@@ -1,1 +1,30 @@
+# L5DE 1.1 Fundamentals of the data-driven enterprise
 
+## Lesson 1 - Building a data-driven HR dashboard
+Covered introduction to the module, introduced the case study for the E Learning
+
+Credit Bank Corporation, an organisation which aims to enhance insights into HR metrics by constructing an analytics dashboard.
+
+Main goals were to improve workforce productivity, retention, and efficiency.
+
+The dashboard needs to bring data from sources such as:
+
+• Employee performance data
+• Engagement and culture surveys
+• Recruiting software and databases
+
+## Lesson 2 - Building a data-driven culture
+
+Explain the value of data in modern organisations
+How to generate a data-driven Culture:
+
+• Build Relationships - Motivate and cultivate relationships with different teams to foster a data centric approach
+• Choose transparency in algorithms - Simplify complex models, provide education on them, start of small even if sub-optimal. Start with user friendly data tools.
+• Celebrate and embrace small wins - Use small examples to persuade stakeholders of long term benefits
+• Raise data literacy - Educate and support other with the skills to navigate data-related endeavours. Early on small training can have long term benefits
+
+Transition from Big data from small data. The more a business grows, the more legs the operations have which means there's more useful data coming in. This company growth means there's a greater need for deeper insights, predictive analytics and data-driven decision-making.
+
+Things that can happen which indicate a move from Small data to Big data is needed:
+
+Overwhelming data: Simple tools no longer can handle the volume, or can analyse the data.
